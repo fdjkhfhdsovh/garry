@@ -1,0 +1,26 @@
+header{
+    background-color: Khaki;
+}
+main{
+    background-color: 
+Khaki;
+} 
+h1{
+    text-align: center;
+    padding-top: 25px;
+}
+a{
+    background-color: PeachPuff;
+    color: DarkSlateGrey;
+    padding: 5px;
+    text-decoration: none;
+    font-size: 15px;
+    margin: 8px;
+}
+header img{
+   width:75px ; 
+   float: left;
+}
+main img{
+    width: 300px;
+}
